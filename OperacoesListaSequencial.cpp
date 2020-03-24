@@ -3,7 +3,7 @@
 #include <string>
 #include <stdlib.h>
 
-using namespace std; //para utilizar cout
+using namespace std; //utiliza o cout
 
 //Struct para pessoa
 struct pessoa{
